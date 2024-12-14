@@ -1,0 +1,8 @@
+.gitignore
+.prettierignore
+
+## Nuxt 3 static directory
+public
+
+## husky
+.husky
